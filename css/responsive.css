@@ -1,0 +1,181 @@
+@media (min-width: 1600px) {
+    
+}
+@media (min-width: 1400px) {
+  
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1366px) {
+  
+}
+@media only screen and (min-width: 992px) and (max-width: 1179px) {
+  
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  header {
+    background-position: center center;
+  }
+  .bl-dott {
+    top: -25%;
+    right: -15px;
+  }   
+  .head-details h1 {
+    font-size: 50px;
+  }
+  .appo-sechead h2, .cHeading, .download-app .cHeading, .help-desk h3 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .img-with-btn img {
+    height: 130px;
+  }
+  .img-with-btn a {
+    width: 100px;
+    height: 30px;
+    font-size: 11px;
+  }
+  .right-img, .left-img {
+    width: 50px;
+  }
+  .left-img {
+    left: 10%;
+    bottom: -30px;
+  }
+  .exploreCard p {
+    font-size: 14px;
+  }
+  .extra-img, .download-app .yellowCircle {
+    width: 80px;
+  }
+  .featCard h6 {
+    font-size: 15px;
+    height: 40px;
+  }
+  .featCard p {
+    font-size: 12px;
+  }
+  .workstep h5 {
+    font-size: 20px;
+  }
+  .workstep p {
+    margin: 17px 0 20px;
+    font-size: 14px;
+  }
+  .download-app .input-group .input-group-text, 
+  .download-app .input-group .form-control {
+    font-size: 14px;
+  }
+  .download-app .input-group-append .input-group-text {
+    width: 110px;
+    margin: 0 0 0 5px;
+    font-size: 12px;
+  }
+  #help-desk .card-header h4 {
+    font-size: 16px;
+  }
+  #help-desk .card-body p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .more {
+    margin: 0;
+  }
+  .other-pages {
+    columns: 2;
+  }
+  .other-pages a {
+    font-size: 12px;
+    margin: 0 0 20px;
+  }
+  .app p, .social .helloLink {
+    font-size: 14px;
+  }
+  .app a img {
+    height: 28px;
+    margin: 0 5px 20px 0;
+  }
+  .social ul a {
+    font-size: 20px;
+  }
+}
+
+
+@media (max-width: 767px) {
+  header {
+    background: none;
+  }
+  .head-details h1 {
+    color: var(--blueColor);
+    font-size: 40px;
+    margin: 0 0 22px;
+  }  
+  .download-aap a {
+    margin: 15px 0 0;
+  }
+  .download-aap a img {
+    height: 40px;
+  }
+  #topNavbar {
+    background: #e6e6e6;
+    margin: 10px 0 0;
+    padding: 0 15px;
+  }
+  header .navbar-light .navbar-nav .nav-link {
+    font-size: 14px;
+    margin: 10px 0;
+  }
+  #topNavbar .form-inline a, .healthPlan li em {
+    font-size: 14px;
+  }
+  .appo-sechead h2, .cHeading, .download-app .cHeading, .help-desk h3 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .explore-services::after {
+    content: none;
+  }
+  .explo-img {
+    width: 100%;
+    margin: 30px 0;
+  }
+  .how-we-work, .health-plans {
+    padding-top: 0px;
+  }
+  .disc-badge {
+    font-size: 12px;
+  }
+  .healthPlan li h3 {
+    font-size: 26px;
+  }
+  .download-app .input-group .form-control {
+    width: 80%;
+  }
+  .download-app .input-group-append .input-group-text {
+    margin: 10px 0;
+  }
+  .download-app a img {
+    height: 30px;
+  }
+  .more {
+    margin: 0;
+  }
+  footer {
+    margin: 40px 0 0;
+  }
+  .other-pages {
+    columns: 2;
+  }
+  .other-pages a {
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+  .app a img {
+    height: 30px;
+  }
+  .social {
+    margin: 0 0 25px;
+  }
+  .social ul a {
+    font-size: 18px;
+  }
+}
